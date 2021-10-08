@@ -14,7 +14,7 @@ class HomeWorkApp {
         int a = -7;
         int b = 3;
         int c = a + b;
-        System.out.println(c >= 0? "Сумма положительная":"Сумма отрицательная");
+        System.out.println(c >= 0? "The sum is positve":"The sum is negativ");
     }
     static void printColor() {
         int value = 600;
